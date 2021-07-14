@@ -1,0 +1,14 @@
+{
+  "name": "hw-23-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "HW-23-express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasmik Gevorgyan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
